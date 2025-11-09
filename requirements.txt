@@ -1,0 +1,9 @@
+
+Type: Text (dependencies)
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+streamlit
+python-multipart
