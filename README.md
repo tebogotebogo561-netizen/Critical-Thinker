@@ -1,1 +1,1 @@
-# Critical-Thinkers
+# Critical-Thinker
