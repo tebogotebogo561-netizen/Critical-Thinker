@@ -1,0 +1,6 @@
+#Type: Text (ignore files/folders)
+__pycache__/
+*.pyc
+venv/
+library.db
+.env
